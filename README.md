@@ -1,5 +1,10 @@
-# makeitblu-barebones
+# Makeitblu - Barebones
 Barebones theme for Bludit CMS
+
+## Requirements
+
+- Bludit 3.xx
+
 ## Features
 
 - basic css
